@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-07-16",
+  "run_date": "2026-07-20",
   "positions": [
     {
       "id": "siemensenergy-senior-strategy-manager-energy-sector",
@@ -9,9 +9,9 @@
       "link": "https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Strategy-Manager-f-m-d-Energy-Sector/297347",
       "category": "top",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "open",
-      "match_note": "Verlangt exzellenten Hochschulabschluss (BWL oder Ingenieurwesen, Master/MBA), mehrjährige Erfahrung in Strategieprojekten bei Energieunternehmen oder Beratungen, tiefes Verständnis von Energiemärkten und sicheres Auftreten gegenüber Senior Stakeholdern. Genau die Kombination aus technischer Tiefe (M.Sc. Energietechnik) und kommerziellem Fundament (MBA), die Fernando mitbringt."
+      "match_note": "Starke Übereinstimmung mit Fernandos technischem und kommerziellem MBA-Profil."
     },
     {
       "id": "siemensenergy-senior-strategy-manager-energy-industry",
@@ -21,9 +21,9 @@
       "link": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Senior-Strategy-Manager-f-m-d-Energy-Industry/294534",
       "category": "top",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "open",
-      "match_note": "Strategieentwicklung für das Gas-Services-Geschäft; verlangt Master in BWL/Finance/Wirtschaft/Ingenieurwesen, Erfahrung in Power Generation und Board-Level-Stakeholder-Management. Passt zu Fernandos Fähigkeit, technische Sachverhalte quantitativ und kommerziell aufzubereiten und auf Entscheiderebene zu verhandeln."
+      "match_note": "Fokus auf Gas-Services und Stakeholder-Management; passt zur Erfahrung in komplexen Infrastrukturprojekten."
     },
     {
       "id": "hydrogenious-commercial-technical-project-lead",
@@ -33,21 +33,9 @@
       "link": "https://hydrogenious-lohc-technologies-gmbh.jobs.personio.de/job/2692206",
       "category": "top",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "open",
-      "match_note": "Wasserstoff-Technologieunternehmen (LOHC). Verlangt technische Tiefe UND kommerzielle Projektsteuerung. Fernandos LOHC-Forschungshintergrund sowie seine Erfahrung in Projektfinanzierung treffen hier exakt ins Zentrum."
-    },
-    {
-      "id": "hydrogenious-technical-project-manager",
-      "title": "Technical Project Manager (m/f/x)",
-      "company": "Hydrogenious LOHC Technologies GmbH",
-      "location": "Erlangen",
-      "link": "https://hydrogenious-lohc-technologies-gmbh.jobs.personio.de/job/2577606",
-      "category": "partial",
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
-      "status": "open",
-      "match_note": "Stärker technisch/anlagenbau-fokussiert (Planung, Bau- und Standortleitung) mit weniger explizitem kommerziellem Anteil."
+      "match_note": "Exzellente Schnittmengen: Wasserstoff-Know-how und Projektfinanzierung."
     },
     {
       "id": "estw-strategischer-einkaeufer",
@@ -57,9 +45,9 @@
       "link": "https://www.estw.de/stellen",
       "category": "partial",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "open",
-      "match_note": "Strategische Beschaffung (Strom, Wärme, Gas) mit Fokus auf Lieferantenmanagement. Passt zu Verhandlungs- und Vertragserfahrung, jedoch generischer Einkauf statt Energiemärkte/PPA."
+      "match_note": "Solide Rolle, Fokus stärker auf Einkaufsprozessen als auf strategischer Energiewirtschaft."
     },
     {
       "id": "n-ergie-netz-referent-beteiligung",
@@ -69,9 +57,21 @@
       "link": "https://n-ergie.hr4you.org/job/view/2155/referent-technische-beteiligungsbetreuung-und-organisation-m-w-d?page_lang=de",
       "category": "partial",
       "first_seen": "2026-07-15",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "open",
-      "match_note": "Relevante Rolle in der Beteiligungsbetreuung bei N-ERGIE Netz GmbH. Nutzt technische Expertise und kommerzielles Verständnis zur Steuerung von Beteiligungen."
+      "match_note": "Guter technischer Bezug bei einer relevanten regionalen Größe."
+    },
+    {
+      "id": "hydrogenious-technical-project-manager",
+      "title": "Technical Project Manager (m/f/x)",
+      "company": "Hydrogenious LOHC Technologies GmbH",
+      "location": "Erlangen",
+      "link": "https://hydrogenious-lohc-technologies-gmbh.jobs.personio.de/job/2577606",
+      "category": "partial",
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-20",
+      "status": "open",
+      "match_note": "Technisch fokussiert; erfordert weniger kommerzielle Führung als Fernandos Stärken."
     },
     {
       "id": "siemensenergy-senior-energy-expert-global-commodity-manager-ppa",
@@ -81,7 +81,7 @@
       "link": "",
       "category": "top",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "applied",
       "match_note": "Bereits beworben."
     },
@@ -93,7 +93,7 @@
       "link": "",
       "category": "partial",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "applied",
       "match_note": "Bereits beworben."
     },
@@ -105,7 +105,7 @@
       "link": "",
       "category": "partial",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "applied",
       "match_note": "Bereits beworben."
     },
@@ -117,7 +117,7 @@
       "link": "",
       "category": "partial",
       "first_seen": "2026-07-14",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-20",
       "status": "applied",
       "match_note": "Initiativbewerbung."
     },
@@ -131,7 +131,7 @@
       "first_seen": "2026-07-15",
       "last_seen": "2026-07-15",
       "status": "gone",
-      "match_note": "Link broken/post closed. Archived."
+      "match_note": "Archiviert."
     }
   ]
 }
